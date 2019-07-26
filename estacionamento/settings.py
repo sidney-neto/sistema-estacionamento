@@ -28,7 +28,7 @@ SECRET_KEY = 'nl=8-)-!ktmwr2w&%19^_qm)(6!728)ra6@rf=6-@zn33vt+tc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sistema-estacionamento.herokuapp.com','localhost:8000']
+ALLOWED_HOSTS = ['sistema-estacionamento.herokuapp.com','localhost','127.0.0.1']
 
 
 # Application definition
